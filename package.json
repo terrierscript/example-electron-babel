@@ -1,0 +1,17 @@
+{
+  "name": "example-electron-babel",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ./app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.2.17",
+    "electron-prebuilt": "^0.25.3",
+    "react": "^0.13.3"
+  }
+}
